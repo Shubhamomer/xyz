@@ -1,0 +1,2 @@
+//to set color
+android:background="@drawable/my_background"

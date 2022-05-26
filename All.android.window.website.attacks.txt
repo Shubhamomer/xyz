@@ -1,0 +1,335 @@
+        kali linux Attacks       hindi/English
+       
+   -----------My bug hunting attacks----------
+       ________________________________
+       
+     Call forwarding l-- आपको **21* डायल कर के अपना मोबाइल नंबर डालना है जो उसके बाद # लगा दें। ऐसा करने से आपके नंबर पर आने वाली कॉल्स बंद नंबर पर डाइवर्ट हो जाएंगी।
+     
+      pdf se malicios website me redirect hona l pdf me kuch website me redirect code ko dalna jisse bina link me click keya pdf se website open ho jaye 
+      
+      pdf phishing l phishing page in pdf
+      
+
+      auto install/download l burbsuite se   apk download request me apni source ip ko hta kr vectem ki ip laga ne se downloading data vectem me download ho jayega ...this is not desired it work and  not tested.
+      
+      
+      Whatsapp bug l enter othir user number and brute force otp or you entered othir user whatsapp account.
+        
+    auto Permission/hide app l target user to use whatsapp and othir app find and create Duplicate whatsapp backdoor or target user use othir app to create othir app backdoor  malware or send target user phone to target user install it to auto bind target user whatsapp to my malwere whatsapp and target whatsapp permission is my malwere whatsapp permission...this is not desired it work and  not tested.
+    
+    auto download apk l-- create link in load webpage auto download apk using html ,css, js code
+    
+     auto launch apk l-- create link using html , js open app code         
+               
+    Malwere se attacker ki ip nikalna l extract Malwere and find classes.dex and open this file or find ftcp.
+           
+      user ke data packets me addvertiseing/Add ko dalna
+     
+       all data packet sniffing in promescous mode in wireshark l                
+                   
+        find mobile phone l find my phone app.  .......     
+      
+      convert cap to HCcap l--
+      
+      ip spofing l-- change your ip and edit vectim ip data packet source ip in respons vectem user and use it not detect dos attack to change ip to dos.
+      
+      katala framework l
+      
+      armitage hack android l--
+      
+      bluejaking
+      
+      bluebugger
+      
+      bluesnarfing
+      
+      bluesniff
+      
+      hciconfig
+      
+      bluetooth keyboard l--
+      
+      thanatos
+      
+      cmseek
+      
+                
+     -------------My social engearing----------
+     _____________&___________
+     
+       HID attack/rober ducky attack/pendrive l-- user ke jane ke raste me rober ducky , pendrive ko girana. taki vo ise apne computer me laga de jisse vo virus activate ho jaye.
+                                   
+                
+                
+    --------------websites-----------
+    _____________
+       
+     wigle.net l-- Network maping tool search wifi , taver , blutooth and more location.
+       
+       namechk.com l-- search any user name , sub domain , website.
+       
+       virustotal l-- scan any file like apk,png, any exension 60+ top antivirus scaning malicias link scan malwere , trojan etc.
+       
+       grabify.link l-- create link or information of clicked user ip , os etc.
+       
+  
+     
+    _ __
+    -----------anonymous sender-----------
+     ______________________________
+      
+      protonmail.com l-- encrypted anonymous message sender chose delete email timer setting.
+       
+       freebulksmsonline.com l-- anounymus message sender
+       
+       emkei.cz l-- mail spoofing attack send email "from" and "to" email fill
+       
+       
+   
+       
+     directry busting attack l
+     
+         gobuster l
+       
+         Cross Site Scripting attack l 
+                
+      xss attack : used to cross site screpting this attack to use html website input field to use html,js code[ <sCrept> alert("xss attack"); </ScrePt> <b>hello</b> ] and website not allow xss to use another 1:web browser  2:code change exaple:<%ScrIpT alert(45)   ; < %/ Sc  rIP   T >
+
+       Disnary attack : disnary attack use to create a wordlist any numbers , word and possiable password and disnary attack perform john the reped tool , hydra etc. attack zip , rar , shadow file password and create wordlist to use crunch , cewl and other application.
+ 
+ Bruteforce attack : use to online attack and crack login form , username , password , phone , email , code other details.
+ 
+         Doss attack। to use website crash , band ,  dheme ho jati hai and this attack perform to scapy , msfconsole tools. stop this attack to use cloud server.
+         
+         csrf attack | use to create melysias link this link inside hedden code form and auto fill form and auto sumit and auto
+         requeste generated.
+         
+         email csrf l
+         
+         open redirect attack l this attack use to original link inside attacker fack link 1.https://attacker.com/?&https://Facebook.com
+
+2. https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWd0cTBNX0dqaWRma2RiZVRuNDA2ZGFLNHJzd3xBQ3Jtc0tsdXg1aGhmRUZSVjFmR1l1QXhYUWdiM2lyd2pKeXVkaEpVYmphaFZsbktyNnNBc194UUdUSXBIdi1MdVd1MnByekdNNVRVWWlCdTZ1d2dXcnBORGRTQ0xxZmwxM0JaWk1xdVhJaktlRkl6OWpLU3UzSQ&q=https://bing.com&v=TIogoyKKpYI&html_redirect=1
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+         😍 Some topic for self Learning😍
+
+[+] Sql Injection Attack
+[+] Hibernate Query Language Injection
+[+] Direct OS Code Injection
+[+] XML Entity Injection
+[+] Broken Authentication and Session
+Management
+[+] Cross-Site Scripting (XSS)
+[+] Insecure Direct Object References
+[+] Security Misconfiguration
+[+] Sensitive Data Exposure
+[+] Missing Function Level Access Control
+[+] Cross-Site Request Forgery (CSRF)
+[+] Using Components with Known Vulnerabilities
+[+] Unvalidated Redirects and Forwards
+[+] Cross Site Scripting Attacks
+[+] Click Jacking Attacks
+[+] DNS Cache Poisoning
+[+] Symlinking – An Insider Attack
+[+] Cross Site Request Forgery Attacks
+[+] Remote Code Execution Attacks
+[+] Remote File inclusion
+[+] Local file inclusion
+[+] EverCookie
+[+] Denial oF Service Attack
+[+] Cookie Eviction
+[+] PHPwn
+[+] NAT Pinning
+[+] XSHM
+[+] MitM DNS Rebinding SSL/TLS Wildcards and
+XSS
+[+] Quick Proxy Detection
+[+] Improving HTTPS Side Channel Attacks
+[+] Side Channel Attacks in SSL
+[+] Turning XSS into Clickjacking
+[+] Bypassing CSRF protections with Click
+Jacking and
+[+] HTTP Parameter Pollution
+[+] URL Hijacking
+[+] Stroke Jacking
+[+] Fooling B64_Encode(Payload) on WAFs And
+Filters
+[+] MySQL Stacked Queries with SQL Injection.
+[+] Posting Raw XML cross-domain
+[+] Generic Cross-Browser Cross-Domain theft
+[+] Attacking HTTPS with Cache Injection
+[+] Tap Jacking
+[+] XSS - Track
+[+] Next Generation Click Jacking
+[+] XSSing Client-Side Dynamic HTML.
+[+] Stroke triggered XSS and Stroke Jacking
+[+] Lost iN Translation
+[+] Persistent Cross Interface Attacks
+[+] Chronofeit Phishing
+[+] SQLi Filter Evasion Cheat Sheet (MySQL)
+[+] Tabnabbing
+[+] UI Redressing
+[+] Cookie Poisoning
+[+] SSRF
+[+] Bruteforce of PHPSESSID
+[+] Blended Threats and JavaScript
+[+] Cross-Site Port Attacks
+[+] CAPTCHA Re-Riding Attack
+
+➖➖➖➖ @exploithacker ➖➖➖➖
+         
+         mass mailer attack l this attack use to one email address send 500+ emails jisse inportant email chup jayega.
+
+         Dns spofing l
+         
+         airkrack ng l wifi password kraker tool.
+         
+         krack Attack l wifi wpa2 / wpa password kraker attack.
+         
+         netstat attack l find ip address in facbook me jo message bhej rha hai or forensick ip address jo data packet ja rha hai and this is a window command tool.
+         
+   ----------spofing / social engiaring----------
+  ____________________  
+         
+         Link tracing l
+         
+         ip tracing l
+         
+         ip hidding l
+         
+         Dns spofing l
+         
+         Call spofing l
+         
+         sms spofing l
+         
+         ip spofing l
+         
+         Mac spofing l
+         
+         snifing/spofing l
+         
+         mail spofing l
+         
+         mass mailer attack l 
+         
+         MitM attack l 
+         ____________________________________
+         
+         deauth attack l 
+         
+         buffer overflow l
+         
+         DDos attack l
+         
+         Sara ransamwere l
+         
+         PMKID attack l wifi 
+         
+         Evil twin attack l this attack purform to fluxion etc tools 
+ 
+         Mac spofing l
+         
+         blueborn attack l
+         
+         password salting l
+         
+         wep attack l
+         
+         
+         
+         XXE ATTACK l
+         
+         Cellural word driving attack l
+     
+         ---------website attack ----------
+          
+      html reflected injection get/post l
+      
+    html curent url l
+    
+    html stored (blog) l
+    
+    
+                                       
+         Privilege Escalation Attack l
+         
+         Broken authentication attack l
+         
+         XML External Entity attack l
+         
+         broken Access control l
+         
+         Miscounfigeration attack l
+         
+         RCE Client side Filter bypass l website me agar koi file upload krne ki jagha hai to usme php access code ki file nhi ja rhi sirf image or png ki ja rhi hai to isko bypass krne ke liye Burbsuite ka istemal krte hai vedio hai.
+         
+         file inclusion volnebility l website me jaha file upload krne ka option hai vha php file me computer access krne ka code dalkar us file ko upload krke netcat se access lena.
+         
+         SQL blind injection l
+         
+         sQL injection l
+         
+ -----------------------------------------------------------6----   
+         
+         screen overlay attack l 
+         
+     
+         Wireless attack l
+         
+         Wifi Jammer l
+         
+         Data Tempering l
+         
+         dirty cow cow attack l
+        
+         SS7 attack l
+         
+         sms , call , email bombing l very simple 
+         
+         ➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+      --l Exploit and open port attacks l--
+         
+         ftp , ssh , telnet , smb open port attack l this attack use in window open ftp port  to access window shell.
+         
+         eternal blue exploit l this exploit use to remotialy access windows 7
+         
+         CVE-2020-0796 exploit l this exploit use to remotialy access windows 10
+         
+         exploit PCAPS l
+         
+         exploit log4j vulnbility l
+         
+         exploit spring4shell l
+         
+         shellshock vulnbility l
+         
+         exploit smb
+         
+        adb, android debug bridge open port attack l 
+        
+        
+        ➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+        --l Website hacking attacks l--
+        
+  phishing attack l
+  
+  Vishing attack l
+  
+  smishing attack l
+  
+  spear phishing l
+  
+  Pharming attack l
+  
+  Website miscunfiguration l
+  
+  Password reset poisoning l
+  ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+  
+  
+  
+  
+        

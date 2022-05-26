@@ -1,0 +1,196 @@
+           My attacks
+           http://www.ip-adress.com/
+ip_tracer/
+
+https://www.bing.com/com?toWww=https://google.com&redig=BDA8E240C77845DF8F3F5D224EB8A932
+
+ 
+       redirect me https://attacker.com/?&     ’beech me space isse vectem ko lagega ke two alag alag website hai'  https://Facebook.com
+  
+      browser in browser l isme browser ke andar html se Fack chrome browser ka interface bnakr usme website load kraye kati hai
+
+      browser in Fack google search l isme browser ke andar fack google site banaye jati hai jesse user ko lagta hai ke vo asli google site me hai aur bhir malwere apk download krake install krne ko khta hai fack google site
+      
+      browser me url bar me fack website ko instagram.com ya alag website dikhana l...
+      isme hum chrome ke upar jo url bar hota hai uske just neche vase he url bar bnate hai aur usme fack website ko hta kr instagram.com ya alag real website lagate hai
+ 
+   pdf se location track krna l  pdf me kuch auto website redirect code dalna or us website me automatic location track kr ke send krne ka code dalna
+  
+               linux me auto run bash script vulnbility l isme echo command ke baad
+ bash script fir > filename.sh se ye run ho jata hai. 
+ 
+          never unistall app code l isme ha
+         
+         deepfack attack l creat deepfack vedio , image 
+          
+          whatshapp ke message/other information l isme shell melna ke baad sdcard me   whatshapp folder  ke andar data aur sare informatoin encrypted form me hote hai kuch encrypted form me nhi hoti hai.
+                 
+          cokies/chrome/all browser history seen l isme shell melna ke baad c drive ke andar chrome ka data aur sare informatoin encrypted form me hote hai kuch encrypted form me nhi hoti hai
+          
+          username auto fill vulnbility l isme website me agar username auto fill code hai to ise exploit krne ke leya website bna kr usma iFrame me us website ko load 
+ 
+       telegrame nearby l apne area ya kisi bhi area me kitne telegram user hai unhe dekhna.
+       
+       csrf auto comment,post,like other l
+       isme attacker aak link tayar krta hai jisme vo csrf se auto comment ,post other chija krta hai jisse vectem us link pr click krta hai to uske mobile se agar us website me login hai to automatic post ho jata hai.
+       
+       
+       xml-rpc attack l
+      
+      dirb tool to directry busting attack l
+      
+      find telegtam user location in telegrame nearby l
+      
+     QR jacking l 
+     
+     breach attack l
+     
+     ip configureson me jo ip support nhi kr rhi use dalna
+     
+     truecallerjs tool l
+ 
+     ssl strip attack l
+     
+     broken access attack l
+     
+     
+     
+ 
+-------location tracking method-------------         _________________________
+    
+1. taver based location l
+
+2. sim card based location l
+
+3.imei number based location l
+
+4.link generating to pdf auto open link l
+
+5.application location tracking l
+
+6.telegrame nearby l            isme photo se he uske number aur location ko track kr sakte hai or ............ apne area ya kisi bhi area me kitne telegram user hai unhe dekhna
+
+7.reverse location l isme ham vectem ko message 
+
+8.whatsapp/insta/facebook/chatting based location tracking l open your cmd and write command 'netstat -an' ya 'netstat'
+
+9.Gmail share link location l isme vectem ka mobile le kr gmail app me se share location  me click krke whatshapp ya mobile number me send kr do
+__________________________________________
+
+
+
+     ---------Android , windows lock cracking--
+____________________________
+
+         chwp tool l this tool help to open  .same file and remove windows password
+         
+         
+         
+
+         
+         ---------- Malwere payload -----------______________________________        
+         
+         Generating hedden , persistent , Antivirus bypassing , never uninstall Malwere .
+         
+        send malwere/phising page in Whatsapp massage isme hum your account very high resk message lekh kr bhejna or vectem ke number ko whatsapp me dalne se vectem malwere download kr skta hai 
+
+         Gidra l
+         
+         fack skin attack l isme payload ko install krne se pahle uska icon or image alag hoti hai phir install krne ke bad padal jati hai
+
+         
+         
+         
+         ---------- linux shell -----------______________________________      
+
+
+
+         ---------- local area hacking -----------______________________________      
+
+     Arp spofing l
+
+     Arp poisning l
+     
+     mac floading l
+
+     mac spofing l
+     
+     mac changer l
+     
+     
+         ---------- wirless/wifi attacks -----------______________________________      
+
+    wifi tracing l trace the wifi signals.
+    
+    wifite l
+    
+    kismit l
+    
+    deauth attack l jam/stop the wifi network.
+    
+   
+    
+    
+
+         ---------- bluethoth attack -----------______________________________      
+
+   bluthoth scaning l
+   
+   bluethoth tracing l
+   
+   blueborn attack l
+   
+   
+         ---------- mac/ip attack -----------______________________________      
+         
+       mac/ip spofing l
+       
+       mac/ip changer l
+       
+       mac/ip hidden l
+       
+       mac floading l  
+         
+         
+         ---------- password cracking -----------______________________________             
+         
+         hydra
+         
+         
+         
+         ---------- user account hacking -----------______________________________                     
+
+       phishing attack l
+       
+       phishing https / website redirect attack l
+       
+       phishing notification attack l
+       
+       
+       
+       social engearing l
+       
+       session hijacking l
+       
+       cookie stealing l
+       
+       wirless connection se dns spofing krna l
+       
+       dns spoofing l
+       
+       arp spoofing l
+       
+       pharming attack l
+       
+       
+       
+          ---------- android attacks -----------______________________________        
+          
+        Internet Data delete / auto full storage l email me message se 20mb data bhej kr internet data delete krna 
+        my programe
+        
+        
+                
+                   
+                         
+       
